@@ -1,7 +1,7 @@
-pub mod lib1{
-    pub mod lib2{
-        pub fn lib3(){
-            println!("Function in Library package" );
+pub mod first{
+    pub mod second{
+        pub fn third(){
+            println!("Function in Lib.rs" );
         }
     }
 }
